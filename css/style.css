@@ -92,8 +92,8 @@
     height: 290px;
     object-fit: cover;
     z-index: 0;
-
     }
+    
     /* Video */
     #video-pink {
       border-radius: 30px;
@@ -113,12 +113,13 @@
       object-fit: cover;
       z-index: 0;
     }
-    /* Video */
+
+     /* Video */
     #video-green {
       border-radius: 30px;
       max-width: 100%;
     }
-    
+
     /* card con i bottoni */
     .cards-type-botton {
       background-color: transparent;
