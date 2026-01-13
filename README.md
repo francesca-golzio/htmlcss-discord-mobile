@@ -6,13 +6,13 @@ Proviamo a riprodurre il layout in allegato, sfruttando le proprietà imparate f
 
 ### Ricordate di lavorare con dimensione fissa a 512px!
 
-### Note: 
+## Note: 
 
 I font utilizzati sono:
 * DM Sans e Sigmar, entrambi reperibili su Google Fonts
 * Per l’icona di download è stato usato Bootstrap Icons
 
-### Bonus
+## Bonus
 
 Osserviamo l’immagine `bonus.png` per replicare i seguenti bonus.
 
