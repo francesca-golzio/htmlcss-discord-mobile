@@ -27,7 +27,7 @@
   /* #region.main-content */
   
   .main-content {
-    padding: 60px 30px;
+    padding: 0 30px;
   }
   
   /* #region.cards */
@@ -39,6 +39,7 @@
     font-weight: 600;
     width: 100%;
     padding: 60px 30px;
+    margin: 60px 0;
     border-radius: 30px;
   }
   /* h2 personalizzato */
@@ -56,9 +57,6 @@
   
   /* box interno alla card (img, buttons...) */
   .cards-no-text-contents {
-    /* background-color: #fff;
-    color: black; */
-    height: 200px;
     width: 100%;
     border-radius: 30px;
   }
@@ -67,6 +65,8 @@
   .cards-type-botton {
     background-color: transparent;
     text-align: center;
+    padding-top: 0;
+    padding-bottom: 0;
   }
   
   button {
@@ -80,6 +80,7 @@
     .download-botton {
       color: black;
       background-color: #fff;
+      margin-bottom: 15px;
     }
     
     .open-botton {
