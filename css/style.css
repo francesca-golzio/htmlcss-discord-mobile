@@ -122,11 +122,10 @@
     /* card con i bottoni */
     .cards-type-botton {
       background-color: transparent;
+      background-image: none;
       text-align: center;
-      padding-top: 0;
-      padding-bottom: 0;
-    
-  }
+      padding-bottom: 15px;
+    }
   
   button {
     font-size: 1.3rem;
