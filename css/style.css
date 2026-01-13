@@ -41,7 +41,18 @@
     padding: 60px 30px;
     margin: 60px 0;
     border-radius: 30px;
+    position: relative;
   }
+  
+  /* Elements overflowing from cards */
+  .cards-overflow {
+    height: 100px;
+    position: absolute;
+    right: 50%;
+    top: 0px;
+    translate: -50% -50%;
+  }
+
   /* h2 personalizzato */
   .cards > h2 {      
     font-family: "Sigmar", sans-serif;
@@ -108,7 +119,7 @@
       color: white;
       background-color: #5865f2;
     }
-  
+
   /* #endregion.cards */
 
 /* #endregion.main-content */
