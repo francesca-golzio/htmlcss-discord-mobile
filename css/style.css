@@ -62,13 +62,25 @@
     
   }
   
-  #pink-img-card {
-    max-width: 100%;
-    height: 300px;
-    background-image: url(../img/discord_demo.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-  }
+  /* card con img pink */
+  /* SO CHE NON VA BENE IDENTIFICARE CON I COLORI */
+  /* MA QUI I TESTI SONO TUTTI UGUALI */
+    #pink-img-card {
+      max-width: 100%;
+      height: 300px;
+      background-image: url(../img/discord_demo.png);
+      background-size: contain;
+      background-repeat: no-repeat;
+    }
+    
+    /* card con img green */
+    #green-img-card {
+      max-width: 100%;
+      height: 300px;
+      background-image: url(../img/streamer_demo.png);
+      background-size: contain;
+      background-repeat: no-repeat;
+    }
   
   /* card con i bottoni */
   .cards-type-botton {
