@@ -12,3 +12,9 @@
   }
 
 /* ./commons */
+
+/* Header */
+
+  #site-header{
+    background-image: href("../img/banner.png")
+  }
