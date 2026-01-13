@@ -49,6 +49,10 @@
     height: 100px;
     position: absolute;
     right: 50%;
+
+    /* sposta al centro le icone-overflow */
+    left: 50%;
+
     top: 0px;
     translate: -50% -50%;
   }
