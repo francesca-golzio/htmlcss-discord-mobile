@@ -32,7 +32,8 @@
   
   /* #region.cards */
   .cards {
-    background-color: #5d64d1;
+    /* background-color: #5d64d1; SOSTITUITO CON GRADIENTE X BONUS */
+    background-image: linear-gradient(to bottom, #2E3084, #5460E8);
     color: #fff;
     font-family: "DM Sans", sans-serif;
     font-size: 1.1rem;
@@ -42,16 +43,16 @@
     margin: 60px 0;
     border-radius: 30px;
     position: relative;
-  }
-  
+}
+
   /* Elements overflowing from cards */
   .cards-overflow {
     height: 100px;
     position: absolute;
     right: 50%;
 
-    /* sposta al centro le icone-overflow */
-    left: 50%;
+      /* sposta al centro le icone-overflow */
+      left: 50%;
 
     top: 0px;
     translate: -50% -50%;
