@@ -1,4 +1,4 @@
-Esercitazione HTML svolta durante il bootcamp Boolean "Master in Web Development".
+Esercitazione HTML-CSS svolta durante il bootcamp Boolean "Master in Web Development".
 
 ----
 
