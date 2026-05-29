@@ -1,10 +1,15 @@
-Compito 13/01/26
-# Discord Mobile
-repo: `htmlcss-discord-mobile`
+Esercitazione HTML svolta durante il bootcamp Boolean "Master in Web Development".
 
+----
+
+# Discord Mobile
+13/01/26 - esercizio di oggi 'Discord Mobile' 
+<br>repo: `htmlcss-discord-mobile`
+
+## Esercizio
 Proviamo a riprodurre il layout in allegato, sfruttando le proprietà imparate finora. 
 
-### Ricordate di lavorare con dimensione fissa a 512px!
+**Ricordate di lavorare con dimensione fissa a 512px!**
 
 ## Note: 
 
